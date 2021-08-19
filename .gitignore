@@ -1,0 +1,7 @@
+/build
+node_modules
+.env
+
+yarn-error.log
+build-storybook.log
+/coverage

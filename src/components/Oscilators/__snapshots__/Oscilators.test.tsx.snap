@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Oscilators Osc1 should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gsTCUz dbtrjS"
+  >
+    <h4
+      class="sc-hKgILt ZTQiC"
+    >
+      Osc 1
+    </h4>
+    <div
+      class="sc-dlfnbm hPNVhb"
+    >
+      <div
+        class="sc-bdfBwQ jsEWwN"
+      >
+        <div
+          aria-valuemax="120"
+          aria-valuemin="0"
+          aria-valuenow="0"
+          style="width: 50px; height: 50px; border-radius: 25px; position: relative; outline: none; box-sizing: border-box; overflow: hidden; cursor: pointer;"
+          tabindex="0"
+        >
+          <svg
+            style="transform: rotate(0deg);"
+            transform="rotate(0)"
+          >
+            dial.svg
+          </svg>
+        </div>
+        Wave
+      </div>
+      <div
+        class="sc-bdfBwQ jsEWwN"
+      >
+        <div
+          aria-valuemax="120"
+          aria-valuemin="0"
+          aria-valuenow="0"
+          style="width: 50px; height: 50px; border-radius: 25px; position: relative; outline: none; box-sizing: border-box; overflow: hidden; cursor: pointer;"
+          tabindex="0"
+        >
+          <svg
+            style="transform: rotate(0deg);"
+            transform="rotate(0)"
+          >
+            dial.svg
+          </svg>
+        </div>
+        Tune
+      </div>
+      <div
+        class="sc-bdfBwQ jsEWwN"
+      >
+        <div
+          aria-valuemax="120"
+          aria-valuemin="0"
+          aria-valuenow="0"
+          style="width: 50px; height: 50px; border-radius: 25px; position: relative; outline: none; box-sizing: border-box; overflow: hidden; cursor: pointer;"
+          tabindex="0"
+        >
+          <svg
+            style="transform: rotate(0deg);"
+            transform="rotate(0)"
+          >
+            dial.svg
+          </svg>
+        </div>
+        Pan
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Oscilators Osc2 should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-gsTCUz dbtrjS"
+  >
+    <h4
+      class="sc-hKgILt ZTQiC"
+    >
+      Osc 2
+    </h4>
+    <div
+      class="sc-dlfnbm hPNVhb"
+    >
+      <div
+        class="sc-bdfBwQ jsEWwN"
+      >
+        <div
+          aria-valuemax="120"
+          aria-valuemin="0"
+          aria-valuenow="0"
+          style="width: 50px; height: 50px; border-radius: 25px; position: relative; outline: none; box-sizing: border-box; overflow: hidden; cursor: pointer;"
+          tabindex="0"
+        >
+          <svg
+            style="transform: rotate(0deg);"
+            transform="rotate(0)"
+          >
+            dial.svg
+          </svg>
+        </div>
+        Wave
+      </div>
+      <div
+        class="sc-bdfBwQ jsEWwN"
+      >
+        <div
+          aria-valuemax="120"
+          aria-valuemin="0"
+          aria-valuenow="0"
+          style="width: 50px; height: 50px; border-radius: 25px; position: relative; outline: none; box-sizing: border-box; overflow: hidden; cursor: pointer;"
+          tabindex="0"
+        >
+          <svg
+            style="transform: rotate(0deg);"
+            transform="rotate(0)"
+          >
+            dial.svg
+          </svg>
+        </div>
+        Tune
+      </div>
+      <div
+        class="sc-bdfBwQ jsEWwN"
+      >
+        <div
+          aria-valuemax="120"
+          aria-valuemin="0"
+          aria-valuenow="0"
+          style="width: 50px; height: 50px; border-radius: 25px; position: relative; outline: none; box-sizing: border-box; overflow: hidden; cursor: pointer;"
+          tabindex="0"
+        >
+          <svg
+            style="transform: rotate(0deg);"
+            transform="rotate(0)"
+          >
+            dial.svg
+          </svg>
+        </div>
+        Pan
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

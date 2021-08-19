@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`play button renders correctly 1`] = `
+<DocumentFragment>
+  <button
+    class="sc-gsTCUz eLfczQ"
+  >
+    <div
+      class="sc-bdfBwQ hyqfeI"
+    />
+  </button>
+</DocumentFragment>
+`;
