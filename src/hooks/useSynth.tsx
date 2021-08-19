@@ -1,6 +1,6 @@
 import React from "react";
-import { atom, useAtom } from "jotai";
-import { synthStartedAtom, frequencyAtom } from "../store/synth";
+import { useAtom } from "jotai";
+import { synthStartedAtom, frequencyAtom, rhythmAtom } from "../store/synth";
 import { selectedTrackAtom } from "../store/tracks";
 import * as Tone from "tone";
 import { osc1Range } from "../store/oscillators";
@@ -10,10 +10,9 @@ const useControlSynth = (synth) => {
 
   synth.set({ frequency: freq });
 };
-export const rhythmAtom = atom(8);
 
 export const useSynth = () => {
-  const [rhythm, setRhythm] = useAtom(rhythmAtom);
+  const [rhythm] = useAtom(rhythmAtom);
   const [selectedTrack] = useAtom(selectedTrackAtom);
   useControlSynth(selectedTrack.synth);
 
